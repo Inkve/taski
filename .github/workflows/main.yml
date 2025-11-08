@@ -85,3 +85,4 @@ jobs:
           # Для каждого пересобранного образа 
           # устанавливаем тег latest, чтобы потом
           tags: inkve/taski_backend:latest 
+          
